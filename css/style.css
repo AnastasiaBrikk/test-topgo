@@ -4103,6 +4103,7 @@ footer {
     height: 93vh;
     background-position: center;
     background-size: cover;
+    background-attachment: inherit;
    background-repeat: no-repeat;
    -o-background-size: cover;
    -moz-background-size: cover;
@@ -5278,6 +5279,7 @@ footer {
     height: 93vh;
     background-position: center;
     background-size: cover;
+    background-attachment: inherit;
    background-repeat: no-repeat;
    -o-background-size: cover;
    -moz-background-size: cover;
@@ -5908,6 +5910,7 @@ footer {
     background-repeat: no-repeat;
    -o-background-size: cover;
    -moz-background-size: cover;
+   background-attachment: inherit;
    -webkit-background-size: cover;
   }
 
@@ -5924,6 +5927,7 @@ footer {
     background-position: center;
     background-size: cover;
     -webkit-background-size: cover;
+    background-attachment: inherit;
      -moz-background-size: cover; 
     background-repeat: no-repeat;
    -o-background-size: cover;
@@ -5955,6 +5959,7 @@ footer {
      -moz-background-size: cover; 
     background-repeat: no-repeat;
    -o-background-size: cover;
+   background-attachment: inherit;
   }
 
   .partner-top {
@@ -5971,7 +5976,8 @@ footer {
     -webkit-background-size: cover;
      -moz-background-size: cover; 
     background-repeat: no-repeat;
-    -moz-background-size: cover; 
+    background-attachment: inherit;
+     -moz-background-size: cover; 
   }
 
 
@@ -9113,12 +9119,5 @@ footer {
 
   .questions {
     background-image: url(../img/tablet-bg-q.webp);
-  }
-}
-
-@media (max-width: 360px) and (min-width: 270px) {
-
-  .about {
-    background-image: url(../img/mobile-bg-about.webp);
   }
 }
