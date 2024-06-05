@@ -5897,7 +5897,7 @@ footer {
     -webkit-background-size: 100%;
      -moz-background-size: 100%; */
 
-    background-image: url("/img/mobile-small-bg-top.jpg");
+    background-image: url("../img/mobile-small-bg-top.jpg");
     height: 91vh;
     background-position: center;
     background-size: cover;
@@ -5913,7 +5913,7 @@ footer {
     -webkit-background-size: 100%;
      -moz-background-size: 100%; 
     background-repeat: no-repeat; */
-    background-image: url("/img/mobile-small-bg-top.jpg");
+    background-image: url("..img/mobile-small-bg-top.jpg");
     height: 91vh;
     background-position: center;
     background-size: cover;
@@ -5938,7 +5938,7 @@ footer {
     background-position: bottom;
     background-size: 100%;
     background-repeat: no-repeat; */
-    background-image: url("/img/mobile-long-bg-top.jpg");
+    background-image: url("../img/mobile-long-bg-top.jpg");
     height: 93vh;
     background-position: center;
     background-size: cover;
@@ -5954,7 +5954,7 @@ footer {
     background-size: 100%;
     background-repeat: no-repeat; */
 
-    background-image: url("/img/mobile-long-bg-top.jpg");
+    background-image: url("../img/mobile-long-bg-top.jpg");
     height: 93vh;
     background-position: center;
     background-size: cover;
