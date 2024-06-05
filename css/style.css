@@ -4100,10 +4100,10 @@ footer {
 
   .partner-top {
     background-image: url("../img/mobile-long-bg-top.jpg");
+    height: 93vh;
     background-position: bottom;
-    background-repeat: no-repeat;
     background-size: cover;
-    height: 91vh;
+    background-repeat: no-repeat;
   }
 
   .partner-top__box {
@@ -5271,7 +5271,7 @@ footer {
   }
 
   .top {
-    background-image: url("img\mobile-long-bg-top.jpg");
+    background-image: url("../img/mobile-long-bg-top.jpg");
     height: 93vh;
     background-position: center;
     background-size: cover;
@@ -5280,13 +5280,13 @@ footer {
     background-repeat: no-repeat;
   }
 
-  .partner-top {
+  /* .partner-top {
     background-image: url("../img/mobile-long-bg-top.jpg");
     height: 93vh;
     background-position: bottom;
     background-size: 100%;
     background-repeat: no-repeat;
-  }
+  } */
 
 
   .top__main-logo {
@@ -5913,7 +5913,7 @@ footer {
     -webkit-background-size: 100%;
      -moz-background-size: 100%; 
     background-repeat: no-repeat; */
-    background-image: url("..img/mobile-small-bg-top.jpg");
+    background-image: url("../img/mobile-small-bg-top.jpg");
     height: 91vh;
     background-position: center;
     background-size: cover;
